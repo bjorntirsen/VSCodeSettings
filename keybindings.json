@@ -1,0 +1,55 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "alt+cmd+u",
+    "command": "workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "ctrl+shift+[Equal]",
+    "command": "-workbench.action.terminal.toggleTerminal"
+  },
+  {
+    "key": "alt+cmd+a",
+    "command": "git.push"
+  },
+  {
+    "key": "alt+cmd+j",
+    "command": "pugbeautify.execute"
+  },
+  {
+    "key": "alt+cmd+n",
+    "command": "explorer.newFile"
+  },
+  {
+    "key": "shift+alt+cmd+n",
+    "command": "explorer.newFolder"
+  },
+  {
+    "key": "cmd+alt+down",
+    "command": "cursorMove",
+    "when": "editorTextFocus",
+    "args": {
+      "to": "nextBlankLine",
+      "by": "wrappedLine"
+    }
+  },
+  {
+    "key": "cmd+alt+up",
+    "command": "cursorMove",
+    "when": "editorTextFocus",
+    "args": {
+      "to": "prevBlankLine",
+      "by": "wrappedLine"
+    }
+  },
+  {
+    "key": "shift+alt+g",
+    "command": "workbench.view.scm",
+    "when": "workbench.scm.active"
+  },
+  {
+    "key": "ctrl+shift+g",
+    "command": "-workbench.view.scm",
+    "when": "workbench.scm.active"
+  }
+]

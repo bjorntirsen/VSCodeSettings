@@ -1,0 +1,46 @@
+{
+  "window.zoomLevel": 2,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+  "editor.wordWrap": "on",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.confirmDelete": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "json.maxItemsComputed": 50000,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.linkedEditing": true,
+  "javascript.preferences.quoteStyle": "single",
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleQuote": true,
+  "php.validate.executablePath": "/usr/bin/php",
+  "eslint.format.enable": true,
+  "eslint.lintTask.enable": true,
+  "eslint.runtime": "",
+  "eslint.rules.customizations": [],
+  "editor.tabSize": 2,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.suggestSelection": "first",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "files.autoSave": "afterDelay"
+}
