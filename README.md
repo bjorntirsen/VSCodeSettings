@@ -27,7 +27,7 @@ In Use:
 - Image preview
 - indent-rainbow
 - Live Server
-- Material Ican Theme
+- Material Icon Theme
 - Path Intellisense
 - Prettier - Code formatter
 
@@ -48,3 +48,13 @@ Not sure:
 - *vscode-styled-components
 - *Live Sass Compiler
 - *Tabnine
+
+Other GUI apps:
+Chrome
+Slack
+Compass
+Postman
+
+Not GUI:
+Oh my zsh
+XCode Tools
