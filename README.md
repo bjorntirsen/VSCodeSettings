@@ -59,6 +59,11 @@ Not GUI:
 - Node
 - Oh my zsh
 - XCode Tools
+- then: You typically configure your global username and email address after installing Git.
+To set your global username/email configuration:
+Open the command line.
+Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+Set your email address: git config --global user.email "MY_NAME@example.com"
 
 Maybe later:
 - Docker
