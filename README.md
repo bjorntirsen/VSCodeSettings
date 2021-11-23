@@ -50,14 +50,15 @@ Not sure:
 - *Tabnine
 
 Other GUI apps:
-Chrome
-Slack
-Compass
-Postman
+- Chrome
+- Slack
+- Compass
+- Postman
 
 Not GUI:
-Oh my zsh
-XCode Tools
+- Node
+- Oh my zsh
+- XCode Tools
 
 Maybe later:
-Docker
+- Docker
