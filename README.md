@@ -58,3 +58,6 @@ Postman
 Not GUI:
 Oh my zsh
 XCode Tools
+
+Maybe later:
+Docker
