@@ -18,9 +18,6 @@
   },
   "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
   "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
-  "[java]": {
-    "editor.defaultFormatter": "redhat.java"
-  },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "json.maxItemsComputed": 50000,
   "javascript.updateImportsOnFileMove.enabled": "always",
@@ -42,5 +39,15 @@
     "**/.settings": true,
     "**/.factorypath": true
   },
-  "files.autoSave": "afterDelay"
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.profiles.osx": {
+    "bash": {
+        "path": "/bin/zsh",
+        "icon": "star",
+        "env": {
+        "TESTING_VAR": "abc"
+        }
+    }
+},
+"terminal.integrated.defaultProfile.osx": "zsh"
 }
