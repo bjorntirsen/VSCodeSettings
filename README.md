@@ -49,6 +49,7 @@ Not sure:
 - *Live Sass Compiler
 - *Tabnine
 
+## On Mac:
 Other GUI apps:
 - Chrome
 - Slack
@@ -67,3 +68,9 @@ Set your email address: git config --global user.email "MY_NAME@example.com"
 
 Maybe later:
 - Docker
+
+## On PC:
+Install:
+- VSCode
+- Git bash
+- Node
