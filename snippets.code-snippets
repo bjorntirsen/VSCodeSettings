@@ -16,7 +16,7 @@
 	// 	"description": "Log output to console"
 	// }
 
-	"Console Log": {
+	"Console Log Variable": {
 		"prefix": "clv",
 		"body": "console.log(\"${TM_SELECTED_TEXT}: \", ${TM_SELECTED_TEXT:'${1:Here}'});",
 		"scope": "javascript,typescript,typescriptreact",
