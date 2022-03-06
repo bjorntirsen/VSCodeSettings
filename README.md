@@ -15,6 +15,13 @@ Your extensions are in
 - 
 Alternately, just go to the Extensions, show installed extensions, and install those on your target installation. For me, copying the extensions worked just fine, but it may be extension-specific, particularly if moving between platforms, depending on what the extension does.
 
+## Custom snippets
+
+### On Mac:
+Put them in ~/Users/<username>/Library/Application Support/Code/User/snippets/
+### Windows:
+Put them in  %APPDATA%\Code\User\snippets
+
 ## Installed Extensions
 "*" means i don't know if i need it
 
